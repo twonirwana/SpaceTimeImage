@@ -6,6 +6,7 @@ To make the image smaller the distance from the sun is forth root and a linear f
 The size of the planets is calculated with square root and a linear factor from the planets radii.
 Optionally it is possible to add the planetary symbols.
 
-Example
+Ideally for creating individual jewellery.
 
+# Example for 2025-06-20
 ![img.png](example_2025-06-20.png)
